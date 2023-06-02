@@ -22,7 +22,7 @@ client.on('ready', async () => {
 	const r = new Discord.RichPresence()
 		.setApplicationId('1094687374484721784')
 		.setType('STREAMING')
-		.setURL('https://www.youtube.com/watch?v=uN-61pzR2-k')
+		.setURL('https://www.youtube.com/watch?v=Icu1bMav9x0')
 		.setState(name) 
 		.setName(name)
 		.setDetails(name2)
